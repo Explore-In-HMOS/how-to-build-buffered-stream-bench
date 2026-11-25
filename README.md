@@ -2,7 +2,7 @@
 
 # How to Build Buffered Stream Bench
 
-How to Build Buffered Stream Bench is a HarmonyOS NEXT wearable codelab that demonstrates compact, watch-friendly ArkTS collection operations across queue, deque, stack, list, set, map, array, and bit-flag structures.
+How to Build Buffered Stream Bench is a HarmonyOS wearable codelab that demonstrates compact, watch-friendly ArkTS collection operations across queue, deque, stack, list, set, map, array, and bit-flag structures.
 
 # Preview
 
